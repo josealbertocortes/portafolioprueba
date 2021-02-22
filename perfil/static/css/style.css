@@ -74,7 +74,7 @@ body {
 
 .img-container {
     position: relative;
-    background: url(./images/img.jpg) no-repeat;
+    background: url(./images/per.svg) no-repeat;
     background-size: cover;
     min-height: 350px;
     background-position: 0 0;
