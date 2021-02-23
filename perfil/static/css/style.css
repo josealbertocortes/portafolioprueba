@@ -401,7 +401,10 @@ button {
         overflow-y: hidden;
         box-shadow: 0 0 16px rgba(0, 0, 0, 0.15);
     }
-
+    .name{
+        margin: 12px auto 12px;
+     }
+    
     .menu-item {
         width: 95px;
         height: 65px;
@@ -432,6 +435,10 @@ button {
     body {
         padding: 80px 16px;
     }
+
+ .name{
+    margin: 12px auto 12px;
+ }
 
     .profile,
     .main {
